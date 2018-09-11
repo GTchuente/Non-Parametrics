@@ -28,12 +28,16 @@ summary(cars)
 
 You can also embed plots, for example:
 
+Here is another.
+
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that 
 generated the plot.
+
+Here is my change.
 
 ```{r x<-0:8
 cbind(x, dbinom(x,0.5))}```
