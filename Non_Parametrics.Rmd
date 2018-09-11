@@ -1,0 +1,41 @@
+---
+title: "Non-Parametric Econometrics"
+author: "Tchuente"
+date: "11 September 2018"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+This document will serve as my library to record important information about Markdown and git. This is part of my learning journey in the world of reproducible research. This will be a crucial part of the development of my dynamic treatment effect project. 
+
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that 
+generated the plot.
+
+```{r x<-0:8
+cbind(x, dbinom(x,0.5))}```
+
+```{git config --global user.name "Tchuente",echo=FALSE}```
